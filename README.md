@@ -1,2 +1,2 @@
 # clan-golem
-A Clash Royale Discord bot to help clan leadership
+A Clash Royale Discord bot to assist clan leadership.
